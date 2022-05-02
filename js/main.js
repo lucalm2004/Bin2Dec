@@ -42,9 +42,6 @@ function pagina() {
         infonum2.innerHTML = ''
     }
 
-    if(selector == 'hex'){
-       num.innerHTML = 'hola'
-    }
-
+ 
    
 }
