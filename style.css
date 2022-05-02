@@ -41,6 +41,14 @@ body {
  padding: 1%;
 }
 
+.rojo {
+  color: red;
+}
+
+.verde {
+  color: green;
+}
+
 h6{
   color: green;
   text-align: center;
