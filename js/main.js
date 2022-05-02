@@ -43,8 +43,7 @@ function pagina() {
     }
 
     if(selector == 'hex'){
-        calculando.innerHTML = decimal
-        calculando.innerHTML = result
+       num.innerHTML = 'hola'
     }
 
    

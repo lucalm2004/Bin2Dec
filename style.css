@@ -50,7 +50,7 @@ body {
   text-align: center;
   font-size: 20px;
  position: absolute;
- top: 60%;
+ top: 67%;
  left: 50%;
  transform: translate(-50%, -50%);
  background-color: #565656;
@@ -59,7 +59,8 @@ body {
 
 .resultado  {
  font-size: 30px;
- padding-top: 10px;
+ padding-top: 1px;
+ 
 }
 
 .verde {
@@ -75,6 +76,9 @@ p{
   color: white;
   text-align: center;
 }
+
+
+
 .field {
   margin-bottom: 15px;
 }
